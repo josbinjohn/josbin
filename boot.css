@@ -1,0 +1,35 @@
+#img{
+    background-image: url("img/watch.webp");
+    background-size: cover;
+    height: 360px;
+}
+p{
+    margin-left: 682px;
+    /* color: azure; */
+}
+a{
+    color: azure;
+}
+#div2{
+    height: 462px;
+}
+#div3{
+    width: 422px;
+    /* margin-left: 784px; */
+    margin-top:-186px;
+}
+span{
+    color: rgb(16, 103, 150);
+}
+/* #div4{
+    width:514px;
+    margin-left: 239px;
+    margin-top: 78px;
+} */
+#button{
+    margin-left: 535px;
+}
+#tune{
+    /* height:6px ; */
+    font-weight: bolder;
+}

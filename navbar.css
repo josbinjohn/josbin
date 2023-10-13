@@ -1,0 +1,76 @@
+#color{
+    color: black;
+    font-weight: bold;
+    background-color: rgb(207, 140, 15);
+}
+#color1{
+    color: black;
+    font-weight: bold;
+
+}
+#color2{
+    color: black;
+    font-weight: bold;
+
+}
+#color3{
+    color: black;
+    font-weight: bold;
+
+}
+#color4{
+    color: black;
+    font-weight: bold;
+
+}
+#color5{
+    color: black;
+    font-weight: bold;
+
+}
+#color6{
+    color: black;
+    font-weight: bold;
+
+}
+#color7{
+    color: black;
+    font-weight: bold;
+
+}
+.fa {
+    /* padding: 20px;
+    font-size: 10px; */
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: -16px 2px;
+    border-radius: 50px;
+    background-color: beige;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.3)
+  }
+marquee{
+    color: orange;
+}
+#sign{
+    color: orange;
+}
+/* body{
+    overflow-x: hidden;    easy way to responce a webpage
+} */
+#divv{
+    background-color: rgb(21, 79, 149);
+    /* height: 70px; */
+
+}
+#home{
+    color: whitesmoke;
+}
+.p1{
+    color: rgb(18, 187, 18);
+    font-weight: bold;
+    font-size: larger;
+}
+#contact{
+    color: whitesmoke;
+}

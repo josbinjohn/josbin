@@ -1,0 +1,104 @@
+#row{
+    background-color:whitesmoke;
+    height: 430px;
+    border:solid  azure;
+}
+
+#row1{
+    background-color:rgb(105, 11, 113);
+    height: 150px;
+    border:solid  azure;
+
+}
+#row2{
+    background-color:rgb(7, 144, 60);
+    height: 100px;
+    border:solid  azure;
+
+}
+/* 
+#rowa{
+    background-color:brown;
+    height: 430px;
+}
+
+#rowb{
+    background-color:brown;
+    height: 430px;
+} */
+/* #row2{
+    background-color:rgb(42, 165, 110);
+    
+}
+/* #row21{
+    background-color:rgb(4, 42, 25);
+    
+} */
+#row21{
+    background-color:rgb(7, 121, 144);
+    height: 30px;
+    border:solid  azure;
+
+
+} 
+#row22{
+    background-color:rgb(196, 66, 27);
+    height: 70px;
+    border:solid  azure;
+
+
+} 
+#rowA{
+    background-color:rgb(7, 144, 60);
+    height: 112px;
+    border:solid  azure;
+
+
+} 
+#green{
+    background-color:rgb(7, 144, 60);
+    height: 225px;
+    border:solid  azure;
+} 
+#blue{
+    background-color:rgb(7, 121, 144);
+    height: 50px;
+    border:solid  azure;
+} 
+#blue2{
+    background-color:rgb(196, 66, 27);
+    height: 175px;
+    border:solid  azure;
+} 
+#purple{
+    background-color:rgb(105, 11, 113);
+    height: 138px;
+    border:solid  azure;
+} 
+#row5{
+    background-color:rgb(7, 144, 60);
+    height: 50px;
+    border:solid  azure;
+} 
+#row51{
+    background-color:rgb(7, 121, 144);
+    height: 50px;
+    border:solid  azure;
+} 
+#row52{
+    background-color:rgb(196, 66, 27);
+    height: 50px;
+    border:solid  azure;
+} 
+#row53{
+    background-color:rgb(105, 11, 113);
+    height: 213px;
+    border:solid  azure;
+} 
+#row54{
+    background-color:rgb(7, 121, 144);
+    height: 50px;
+    border:solid  azure;
+} 
+
+
